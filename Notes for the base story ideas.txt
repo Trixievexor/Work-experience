@@ -1,0 +1,9 @@
+Theme: "Your the monster!"
+
+- Expand the enviroment 
+- Change models (the enemy, maybe main character)
+- UI - static VHS tape kinda look - survival time (longer living, the harder it gets ; if too hard to code then a count down)
+- 3D Models, house, enemies, the actual funiture and lighting
+- Audio (BKG) Slight buzzing sound when nothing is happening, When enemy is chasing (chase music, Louder buzzing noises)
+- Audio (SFX) 
+- Power ups - flashlight ( gives the light to the player and scares away the enemies follow up with a scream or such
