@@ -1,0 +1,18 @@
+Theme: "Your the monster!"
+
+- Main concept for game:The character you are playing has schizophrenia and it is about the struggles of their day to day life.The enemies are a figment of their imagination and is actually fighting with themselves. 
+
+- Expand the enviroment 
+- Change models (the enemy, maybe main character)
+- UI - static VHS tape kinda look - survival time (longer living, the harder it gets ; if too hard to code then a count down)
+- 3D Models, house, enemies, the actual funiture and lighting
+- Audio (BKG) Slight buzzing sound when nothing is happening, When enemy is chasing (chase music, Louder buzzing noises)
+- Audio (SFX) - Screans when you flash the monsters
+- Power ups - flashlight ( gives the light to the player and scares away the enemies follow up with a scream or such (batteries to recharge flashlight) - Glowsticks - gives light around you for a certain amount of time
+
+
+- Programing - Dillan, Alex can help if needed
+- Models and art - Alex, Dill help if needed
+- Audio and UI, We do together.
+
+
