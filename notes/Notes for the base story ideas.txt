@@ -1,5 +1,7 @@
 Theme: "Your the monster!"
 
+- Main concept for game:The character you are playing has schizophrenia and it is about the struggles of their day to day life.The enemies are a figment of their imagination and is actually fighting with themselves. 
+
 - Expand the enviroment 
 - Change models (the enemy, maybe main character)
 - UI - static VHS tape kinda look - survival time (longer living, the harder it gets ; if too hard to code then a count down)
@@ -12,4 +14,5 @@ Theme: "Your the monster!"
 - Programing - Dillan, Alex can help if needed
 - Models and art - Alex, Dill help if needed
 - Audio and UI, We do together.
+
 
