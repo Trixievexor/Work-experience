@@ -6,8 +6,10 @@ Theme: "Your the monster!"
 - 3D Models, house, enemies, the actual funiture and lighting
 - Audio (BKG) Slight buzzing sound when nothing is happening, When enemy is chasing (chase music, Louder buzzing noises)
 - Audio (SFX) - Screans when you flash the monsters
-- Power ups - flashlight ( gives the light to the player and scares away the enemies follow up with a scream or such (batteries to recharge flashlight)
+- Power ups - flashlight ( gives the light to the player and scares away the enemies follow up with a scream or such (batteries to recharge flashlight) - Glowsticks - gives light around you for a certain amount of time
+
 
 - Programing - Dillan, Alex can help if needed
 - Models and art - Alex, Dill help if needed
 - Audio and UI, We do together.
+
